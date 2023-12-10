@@ -7,4 +7,7 @@ void main() {
   print(myInt);
   var mydouble = 7.8;
   print(mydouble);
+  var name = "Juan Ticante Vicente";
+  print("Hola $name");
+  print("hola ${name.toUpperCase()}");
 }
